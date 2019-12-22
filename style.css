@@ -1,0 +1,23 @@
+#title{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+#description{
+    font-size: large;
+    font-weight: bolder;    
+}
+
+
+body{
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+.txtK{
+    font-size: 11px;
+    
+}
+svg{
+  text-align: left;  
+}
